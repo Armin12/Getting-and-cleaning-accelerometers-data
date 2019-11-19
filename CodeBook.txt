@@ -72,6 +72,8 @@ Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012
 
 ==========================================================================================================
 
+Description of the variables and the code in the .R file.
+
 1. Merges the training and the test sets to create one data set.
 
 Training data ("X_train") and their labels ("y_train"), test data ("X_test") and their labels ("y_test") were read from .txt files with the same names.
