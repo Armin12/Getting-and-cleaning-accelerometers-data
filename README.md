@@ -1,4 +1,5 @@
-#Getting and Cleaning Accelerometers Data
+# Getting and Cleaning Accelerometers Data
+
 The collected data from the accelerometers from the Samsung Galaxy S smartphone are provided. We follow the steps below to get and clean the dataset by creating the R script run_analysis.R:
 
 Merges the training and the test sets to create one data set.
